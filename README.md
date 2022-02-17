@@ -4,8 +4,7 @@
 
 - ### 🔭 I’m currently working on React based projects
 - ### 🌱 I’m currently learning React
-- ### 👯 I’m looking to collaborate on Web-dev (frontend, backend), Python 
-- ### 🤔 I’m looking for help with Python and Web-dev projects( preferably backend)
+- ### 👯 I’m looking to collaborate on: 1.Web-dev (frontend, backend) 2. Python Projects 3. JS Projects  
 - ### 💬 Ask me about the Indian way of life. I love talking about it.
 - ### 📫 How to reach me: Check out my [Website.](https://itskiranay.github.io/CCS-My_Site/)
 - ### 😄 Pronouns: He/Him
